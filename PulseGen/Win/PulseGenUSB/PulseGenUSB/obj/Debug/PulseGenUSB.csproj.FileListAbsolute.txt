@@ -1,0 +1,10 @@
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.csprojResolveAssemblyReference.cache
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.Form1.resources
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.Properties.Resources.resources
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.csproj.GenerateResource.Cache
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.csproj.CoreCompileInputs.cache
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\bin\Debug\PulseGenUSB.exe.config
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\bin\Debug\PulseGenUSB.exe
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\bin\Debug\PulseGenUSB.pdb
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.exe
+F:\Arduino\projects\PulseGen\Win\PulseGenUSB\PulseGenUSB\obj\Debug\PulseGenUSB.pdb
