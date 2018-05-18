@@ -185,7 +185,7 @@ void ConfigTimer(unsigned char timer, unsigned char mode) {
   digitalWrite(PIN_WR, LOW);   //WR  
   delayMicroseconds(2);
   digitalWrite(PIN_WR, HIGH);   //WR
-  //digitalWrite(PIN_A27, HIGH);
+  digitalWrite(PIN_A27, HIGH);
 }
 
 void WriteTimer(unsigned char number, unsigned int value){
@@ -217,7 +217,7 @@ void WriteTimer(unsigned char number, unsigned int value){
   digitalWrite(PIN_WR, LOW);   //WR
   delayMicroseconds(2);
   digitalWrite(PIN_WR, HIGH);   //WR
-  //digitalWrite(PIN_A27, HIGH);
+  digitalWrite(PIN_A27, HIGH);
 }
 
 void ConfigDD9(unsigned char val) {
@@ -233,7 +233,7 @@ void ConfigDD9(unsigned char val) {
   digitalWrite(PIN_RD, HIGH);
   digitalWrite(PIN_WR, LOW);
   digitalWrite(PIN_WR, HIGH); 
- // digitalWrite(PIN_A27, HIGH);
+  digitalWrite(PIN_A27, HIGH);
 }
 
 void WriteToDD9(unsigned char data, char port){
@@ -252,7 +252,7 @@ void WriteToDD9(unsigned char data, char port){
   digitalWrite(PIN_WR, LOW);   //WR
   WriteData(data);
   digitalWrite(PIN_WR, HIGH);   //WR
- // digitalWrite(PIN_A27, HIGH);
+  digitalWrite(PIN_A27, HIGH);
 }
 
 
